@@ -1,0 +1,2 @@
+- style-loader with scss
+- run on Redhat: **`sudo PORT=80 yarn start`**

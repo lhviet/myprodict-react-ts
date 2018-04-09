@@ -1,0 +1,10 @@
+@import "../../scss/my-variables";
+
+.component-card-example-sentence {
+  .highlight-word {
+    font-size: 1.05rem;
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+  }
+}

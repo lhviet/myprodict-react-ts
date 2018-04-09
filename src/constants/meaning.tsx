@@ -1,0 +1,1 @@
+export const MEANING__SEARCH = 'MEANING__SEARCH';

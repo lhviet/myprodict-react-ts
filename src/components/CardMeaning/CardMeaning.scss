@@ -1,0 +1,14 @@
+@import "../../scss/my-variables";
+
+.component-card-meaning {
+  transition: all ease .3s;
+
+  &:hover {
+    //box-shadow: 1px 1px 7px 4px #707070;
+  }
+
+  .m-explanation {
+    font-family: "Roboto";
+  }
+
+}

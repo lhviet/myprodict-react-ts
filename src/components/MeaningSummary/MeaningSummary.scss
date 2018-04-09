@@ -1,0 +1,10 @@
+@import "../../scss/my-variables";
+
+.component-meaning-summary {
+  //box-shadow: #a0a0a0 2px 2px 3px 0;
+
+  .list-group li {
+    border-left: none;
+    border-right: none;
+  }
+}

@@ -1,0 +1,30 @@
+.nav-bar-top {
+
+  .navbar-brand {
+    display: none;
+    position: absolute;
+    left: .4rem;
+
+    img {
+      width: 2.4rem;
+      height: 2.4rem;
+    }
+  }
+
+  .search-bar {
+    width: calc(100% - 72px);
+  }
+
+  @media (min-width: 576px) {
+
+    padding-left: .25rem !important;
+
+    .navbar-brand {
+      display: inline-block;
+    }
+    .search-bar {
+      width: 60%;
+      margin: 0 auto;
+    }
+  }
+}
