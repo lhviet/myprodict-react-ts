@@ -5,7 +5,7 @@
 
 ![screenshot](http://res.cloudinary.com/ddlt2cjne/image/upload/v1523244202/myprodict_iv9awk.png "MyProDict in action")
 
-# ConnectFour
+# MyProDict
 
 This project was generated with [Microsoft/TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter) version 0.1.0
 
